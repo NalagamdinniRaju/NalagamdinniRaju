@@ -1,4 +1,4 @@
-![logo](https://imagetolink.com/ib/WP5MUpzMwo.png)
+![logo](https://imagetolink.com/ib/52Y4zM3eyy.png)
 <h1 align="center">Hi 👋, I'm Raju Nalagamdinni</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
