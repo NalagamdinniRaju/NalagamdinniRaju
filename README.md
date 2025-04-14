@@ -85,9 +85,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nalagamdinniraju&theme=react" alt="Contribution Graph" />
 </div>
 
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hscntymizwvbv3mmxhce&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Profile" />
-</div>
+
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
